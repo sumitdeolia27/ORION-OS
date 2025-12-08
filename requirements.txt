@@ -1,0 +1,21 @@
+# ORION OS Navigator Backend Dependencies
+
+# Web Framework
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Core dependencies (from orion_os_navigator.py)
+customtkinter>=5.2.0
+Pillow>=10.0.0
+psutil>=5.9.0
+requests>=2.31.0
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+opencv-python>=4.8.0
+
+# Platform-specific (Windows)
+pycaw>=20230407; sys_platform == "win32"
+comtypes>=1.4.0; sys_platform == "win32"
+
