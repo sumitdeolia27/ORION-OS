@@ -1,19 +1,40 @@
 # ORION OS Navigator
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-| Command Palette | Extension |
-|-----------------|-----------|
-| ![](screenshot/1.png) | ![](screenshot/2.png) |
+### 🔐 Command Palette
+![Command Palette](screenshot/1.png)
 
-| AI Center | System Metrics |
-|----------|----------------|
-| ![](screenshot/3.png) | ![](screenshot/4.png) |
+---
 
-| File Explorer | Notes |
-|--------------|-------|
-| ![](screenshot/5.png) | ![](screenshot/6.png) |
+### 💽 Extension View
+![Extension View](screenshot/2.png)
 
+---
+
+### 🧠 AI Command Center
+![AI Command Center](screenshot/3.png)
+
+---
+
+### 📊 System Metrics Dashboard
+![System Metrics](screenshot/4.png)
+
+---
+
+### 📂 File Explorer
+![File Explorer](screenshot/5.png)
+
+---
+
+### 📝 Notes & Tasks
+![Notes and Tasks](screenshot/6.png)
+
+---
+
+### ⚙️ Settings & Controls
+![Settings](screenshot/7.png)
 
 Advanced AI Command Center with modern UI and system control capabilities.
 
@@ -158,6 +179,7 @@ If port 3000 is already in use, Next.js will automatically use the next availabl
 ## 📝 License
 
 Private project
+
 
 
 
