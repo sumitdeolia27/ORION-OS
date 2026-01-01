@@ -1,0 +1,26 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    gcc \
+    portaudio19-dev \
+    python3-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application
+COPY scripts/ ./scripts/
+
+# Expose port
+EXPOSE 5000
+
+# Disable TTS for stability
+ENV ORION_DISABLE_TTS=1
+
+# Run server
+CMD ["python", "scripts/api_server.py"]

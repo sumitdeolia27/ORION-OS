@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.env.local
+*.log
+.DS_Store
+__pycache__
+*.pyc
+.pytest_cache
+.vscode
+.idea
+*.md
+!README.md
+backend.log
+backend-server.log
