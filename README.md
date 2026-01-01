@@ -1,6 +1,13 @@
-# ORION OS Navigator
+# 🌌 ORION OS Navigator
 
-Advanced AI Command Center with modern UI and system control capabilities.
+> **Advanced AI-Powered System Control Interface**
+
+A futuristic, AI-driven operating system interface built with Next.js 16, React 19, and Google Gemini AI.
+
+![ORION OS](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python)
 
 ## 🚀 Quick Start
 
