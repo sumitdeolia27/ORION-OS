@@ -3,7 +3,7 @@
 ## 📸 Screenshots
 
 ### 🔐 Preview 1
-![Command Pallete](Screenshot/1.png)
+![Command Pallete](screenshot/1.png)
 
 ---
 
@@ -11,7 +11,7 @@
 
 
 ### 💽 Preview 2  
-![Extension](Screenshot/2.png)
+![Extension](screenshot/2.png)
 
 Advanced AI Command Center with modern UI and system control capabilities.
 
@@ -156,6 +156,7 @@ If port 3000 is already in use, Next.js will automatically use the next availabl
 ## 📝 License
 
 Private project
+
 
 
 
