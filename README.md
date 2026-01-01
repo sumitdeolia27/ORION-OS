@@ -10,7 +10,16 @@ A futuristic, AI-driven operating system interface built with Next.js 16, React 
 ![Python](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python)
 
 ## 🚀 Quick Start
+### 🔐 Preview 1
+![Command Pallete](screenshort/1.png)
 
+---
+
+
+
+
+### 💽 Preview 2  
+![Extension](screenshort/2.png)
 ### Prerequisites
 
 - **Node.js** (v18 or higher)
