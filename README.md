@@ -13,6 +13,8 @@
 ### 💽 Preview 2  
 ![Extension](screenshot/2.png)
 
+--
+
 Advanced AI Command Center with modern UI and system control capabilities.
 
 ## 🚀 Quick Start
@@ -156,6 +158,7 @@ If port 3000 is already in use, Next.js will automatically use the next availabl
 ## 📝 License
 
 Private project
+
 
 
 
