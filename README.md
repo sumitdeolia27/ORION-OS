@@ -2,18 +2,18 @@
 
 ## 📸 Screenshots
 
-### 🔐 Preview 1
-![Command Pallete](screenshot/1.png)
+| Command Palette | Extension |
+|-----------------|-----------|
+| ![](screenshot/1.png) | ![](screenshot/2.png) |
 
----
+| AI Center | System Metrics |
+|----------|----------------|
+| ![](screenshot/3.png) | ![](screenshot/4.png) |
 
+| File Explorer | Notes |
+|--------------|-------|
+| ![](screenshot/5.png) | ![](screenshot/6.png) |
 
-
-
-### 💽 Preview 2  
-![Extension](screenshot/2.png)
-
---
 
 Advanced AI Command Center with modern UI and system control capabilities.
 
@@ -158,6 +158,7 @@ If port 3000 is already in use, Next.js will automatically use the next availabl
 ## 📝 License
 
 Private project
+
 
 
 
