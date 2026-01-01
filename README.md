@@ -1,6 +1,9 @@
-# ORION OS Navigator
+# 🪐 ORION OS Navigator
 
-## 📸 Screenshots
+Advanced AI Command Center with a modern UI and deep system-control capabilities.
+
+---
+
 ## 📸 Screenshots
 
 ### 🔐 Command Palette
@@ -35,6 +38,8 @@
 
 ### ⚙️ Settings & Controls
 ![Settings](screenshot/7.png)
+
+---
 
 Advanced AI Command Center with modern UI and system control capabilities.
 
@@ -179,6 +184,7 @@ If port 3000 is already in use, Next.js will automatically use the next availabl
 ## 📝 License
 
 Private project
+
 
 
 
