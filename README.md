@@ -20,6 +20,28 @@ A futuristic, AI-driven operating system interface built with Next.js 16, React 
 
 ### 💽 Preview 2  
 ![Extension](screenshort/2.png)
+
+---
+### 🔐 Preview 3
+![Command Pallete](screenshort/3.png)
+
+---
+### 🔐 Preview 4
+![Command Pallete](screenshort/4.png)
+
+---
+### 🔐 Preview 5
+![Command Pallete](screenshort/5.png)
+
+---
+### 🔐 Preview 6
+![Command Pallete](screenshort/6.png)
+
+---
+### 🔐 Preview 7
+![Command Pallete](screenshort/7.png)
+
+---
 ### Prerequisites
 
 - **Node.js** (v18 or higher)
